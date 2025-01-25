@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Projetos_Git_ricardoefamilia\.metadata\.plugins\org.eclipse.jdt.core
+1288848795.index
+2539055023.index
+1865797976.index
