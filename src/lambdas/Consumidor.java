@@ -8,7 +8,6 @@ public class Consumidor {
 
 	public static void main(String[] args) {
 
-
 		Consumer<Produto> imprimirNome = p -> System.out.println(p.nome + "!!!");
 		
 		Produto p1 = new Produto("Caneta", 12.34, 0.09);
@@ -33,5 +32,4 @@ public class Consumidor {
 		produtos.forEach(System.out::println);
 		
 	}
-
 }
